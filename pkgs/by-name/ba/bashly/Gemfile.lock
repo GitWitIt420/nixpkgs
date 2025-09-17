@@ -13,7 +13,7 @@ GEM
       psych (>= 3.3.2, < 7)
       requires (~> 1.1.0)
       tty-markdown (~> 0.7)
-    cgi (0.4.1)
+    cgi (0.4.2)
     colsole (1.0.0)
     completely (0.6.3)
       colsole (>= 0.8.1, < 2)
@@ -39,7 +39,7 @@ GEM
     psych (5.2.0)
       stringio
     requires (1.1.0)
-    rexml (3.3.9)
+    rexml (3.4.2)
     rouge (4.5.0)
     stringio (3.1.2)
     strings (0.2.1)
