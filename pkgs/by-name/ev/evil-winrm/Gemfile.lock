@@ -21,7 +21,7 @@ GEM
     multi_json (1.15.0)
     nori (2.7.1)
       bigdecimal
-    rexml (3.3.8)
+    rexml (3.4.2)
     rubyntlm (0.6.5)
       base64
     rubyzip (2.3.2)
